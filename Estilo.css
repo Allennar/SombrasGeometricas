@@ -216,3 +216,40 @@ p {
 .subscribe button:hover {
     background-color: #0056b3;
 }
+/* Comments Section */
+.comments {
+    background-color: #f0f8ff; /* Fondo suave y atractivo */
+    padding: 50px 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.comments h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #1a1a1a;
+}
+
+.comment {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    padding: 15px 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.comment p {
+    font-size: 1rem;
+    color: #333333;
+    margin-bottom: 10px;
+    font-family: 'Lora', serif;
+}
+
+.comment span {
+    display: block;
+    font-size: 0.9rem;
+    color: #555555;
+    font-style: italic;
+    font-family: 'Oswald', sans-serif;
+}
